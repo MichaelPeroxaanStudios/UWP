@@ -1,0 +1,14 @@
+﻿<Page
+    x:Class="Michael_Peroxaan.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Michael_Peroxaan"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#b6e6be">
+
+    <Button Click="showAlertDialog" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Transparent">
+        <Image Source="/Assets/MichaelPeroxaan.png" Margin="64,64,64,64" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Stretch="Uniform"/>
+    </Button>
+</Page>
